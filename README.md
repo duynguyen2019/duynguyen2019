@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Duy Nguyen
 
-🎯 **Programmer | Lecturer | Software Engineer | AWS Developer**
+🎯 **Programmer | Lecturer**
 
 I'm a software engineer with a strong background in applied mathematics and cloud-based data systems.  
 I specialize in building scalable web applications, managing data pipelines, and applying AI techniques to solve real-world problems — particularly in environmental data science and computer vision.
