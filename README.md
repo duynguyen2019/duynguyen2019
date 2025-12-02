@@ -3,26 +3,26 @@
 🎯 **Programmer | Lecturer**
 
 I'm a software engineer with a strong background in applied mathematics and cloud-based data systems.  
-I specialize in building scalable web applications, managing data pipelines, and applying AI techniques to solve real-world problems — particularly in environmental data science and computer vision.
+I specialize in building scalable web applications, managing data pipelines, and applying AI techniques to solve real-world problems - particularly in environmental data science and computer vision.
 
 ---
 
 ## 🧠 About Me
 
-- **💼 Programmer at [Southern California Coastal Water Research Project (SCCWRP)](https://www.sccwrp.org/)**  
-  - Design, develop, and maintain web applications for environmental data management.  
-  - Build AWS-based infrastructure for large-scale data storage and processing.  
-  - Develop dashboards and interactive tools for wastewater and stormwater research.  
-  - Train and deploy computer vision models (YOLO) for object detection in environmental imagery.  
+- **💼 Programmer at [Southern California Coastal Water Research Project (SCCWRP)](https://www.sccwrp.org/)**
+  - Design, develop, and maintain web applications for environmental data management.
+  - Build AWS-based infrastructure for large-scale data storage and processing.
+  - Develop dashboards and interactive tools for wastewater and stormwater research.
+  - Train and deploy computer vision models (YOLO) for object detection in environmental imagery.
   - Collaborate with scientists and supervise technical interns.
 
-- **🎓 Lecturer at California State University, Fullerton (CSUF)**  
-  - Teach undergraduate courses in computer science and software engineering.  
-  - Mentor students in software projects and research.  
+- **🎓 Lecturer at California State University, Fullerton (CSUF)**
+  - Teach undergraduate courses in computer science and software engineering.
+  - Mentor students in software projects and research.
   - Develop modern course materials focusing on software design, AI, and cloud computing.
 
-- **🔬 Former Mathematician at the U.S. Department of Navy (NAWS China Lake)**  
-  - Implemented advanced mathematical models for classified defense projects.  
+- **🔬 Former Mathematician at the U.S. Department of Navy (NAWS China Lake)**
+  - Implemented advanced mathematical models for classified defense projects.
   - Designed and optimized algorithms for performance-critical systems.
 
 ---
